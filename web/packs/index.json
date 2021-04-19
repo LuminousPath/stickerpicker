@@ -1,6 +1,7 @@
 {
   "homeserver_url": "https://matrix.kurumi.dev",
   "packs": [
+    "cucks.json",
     "pepe.json",
     "pepetop.json",
     "risitas.json",

@@ -2,6 +2,7 @@
   "homeserver_url": "https://matrix.kurumi.dev",
   "packs": [
     "cucks.json",
+    "bakaclub.json",
     "chronemotes-1.json",
     "chronemotes-2.json",
     "chronemotes-3.json",
